@@ -2,5 +2,4 @@
 
 Completed Labs for John Q. Student
 
-1. [John Q's Lab 1](//github.com/johnqstudent/idd-fa18-lab1)
-2. [John Q's Lab 2](//github.com/johnqstudent/idd-fa18-lab2)
+1. [Chris Shei Lab 1](https://github.com/ckshei/IDD-Labs/blob/master/lab-01.md)
