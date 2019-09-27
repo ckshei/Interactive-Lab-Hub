@@ -5,4 +5,6 @@ Completed Labs for John Q. Student
 1. [Chris Shei Lab 1](https://github.com/ckshei/IDD-Labs/blob/master/lab-01.md)
     Recommended to view it thru: https://shei.gitbook.io/cornell/lab-01
 2. [Chris Shei Lab 2](https://github.com/ckshei/IDD-Labs/blob/master/lab-02.md)
-    Recommended to view it thru: https://app.gitbook.com/@shei/s/cornell/lab-02)
+    Recommended to view it thru: https://shei.gitbook.io/cornell/lab-02)
+3. [Chris Shei Lab 3](https://github.com/ckshei/IDD-Labs/blob/master/lab-03.md)
+    Recommended to view it thru: https://shei.gitbook.io/cornell/lab-03)
